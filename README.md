@@ -3,6 +3,9 @@
 # Voice-Driven AI Chatbot
 
 A Flask-based web application for real-time voice-driven AI interaction. This project transcribes audio files, generates intelligent responses using OpenAI GPT, and provides audio feedback using text-to-speech (TTS).
+![image](https://github.com/user-attachments/assets/35c08ac7-6084-4942-b968-60d0468d6856) ![image](https://github.com/user-attachments/assets/2d35ab4b-4656-4e35-9f32-835e05bccd7f)
+
+
 
 ---
 
