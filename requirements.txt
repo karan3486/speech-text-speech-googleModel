@@ -1,0 +1,5 @@
+flask
+whisper
+gtts
+openai
+numpy
